@@ -1,7 +1,8 @@
 class Subtract {
 
 
-    void subtract(int a, int b) {
+    void subtract(int a, int b)
+    {
         System.out.println("Subtraction of two integers: " + (a - b));
     }
 
